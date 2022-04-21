@@ -1,0 +1,15 @@
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\bin\Debug\net6.0\Dice Roller Bot.exe
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\bin\Debug\net6.0\Dice Roller Bot.deps.json
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\bin\Debug\net6.0\Dice Roller Bot.runtimeconfig.json
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\bin\Debug\net6.0\Dice Roller Bot.dll
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\bin\Debug\net6.0\Dice Roller Bot.pdb
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.csproj.AssemblyReference.cache
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.AssemblyInfoInputs.cache
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.AssemblyInfo.cs
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.csproj.CoreCompileInputs.cache
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.dll
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\refint\Dice Roller Bot.dll
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.pdb
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\Dice Roller Bot.genruntimeconfig.cache
+C:\Users\sadams\source\repos\Dice Roller Bot\Dice Roller Bot\obj\Debug\net6.0\ref\Dice Roller Bot.dll
