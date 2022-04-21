@@ -97,6 +97,10 @@
         {
             Console.WriteLine("Nat 20 Baby! Here's all the good things");
         }
+        else if (firstRoll == 1 && secondRoll == 20)
+        {
+            Console.WriteLine("Critical Crit. I'm not sure what happens here. Maybe they cancel out? \nWhy are you always rolling with advantage or disadvantage anyway? You're either really lucky or extremely bad.");
+        }
     }
 
     public static void StandardDie()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadams\\source\\repos\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj": {}
+    "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit3\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadams\\source\\repos\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj": {
+    "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit3\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadams\\source\\repos\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj",
+        "projectUniqueName": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit3\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj",
         "projectName": "Dice Roller Bot",
-        "projectPath": "C:\\Users\\sadams\\source\\repos\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj",
+        "projectPath": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit3\\Dice Roller Bot\\Dice Roller Bot\\Dice Roller Bot.csproj",
         "packagesPath": "C:\\Users\\sadams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadams\\source\\repos\\Dice Roller Bot\\Dice Roller Bot\\obj\\",
+        "outputPath": "C:\\Users\\sadams\\Desktop\\Grand_Circus\\Unit3\\Dice Roller Bot\\Dice Roller Bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
